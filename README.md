@@ -325,14 +325,6 @@ This confirms that the second request was served from Redis instead of querying 
 > <img width="1306" height="598" alt="Swagger 1" src="https://github.com/user-attachments/assets/82107598-de4a-44da-bcda-0a4e039459a4" />
 
 
-### Login API
-
-
-
-<img width="1343" height="644" alt="Swagger Login1" src="https://github.com/user-attachments/assets/3ef8e64b-0201-411c-820b-b81f566b1e8c" />
-
-<img width="1308" height="323" alt="Swagger login 2" src="https://github.com/user-attachments/assets/2ebdce0d-394a-4f2b-8835-c6dd69261f04" />
-
 ### Deposit Transaction
 
 > <img width="801" height="347" alt="Transaction Deposit Swagger Testing" src="https://github.com/user-attachments/assets/6ce408d3-b71b-4322-a019-3d345971c333" />
